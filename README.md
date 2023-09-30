@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Hackathon Femtech 2023
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created in participation in the Femtech 2023 Hackathon - Bogotá.
+Being selected as the first place winner.
+The objective of the hackathon was the creation of an MVP that contributes to UN SDG 5
 
 ## Available Scripts
 
